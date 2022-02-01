@@ -1,7 +1,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gustavopjc)](https://github.com/gustavopjc)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-j-b75957131/)](https://www.linkedin.com/in/gustavo-j-b75957131/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-0000ff?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://web.facebook.com/gustavopinheir)](https://web.facebook.com/gustavopinheir)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0000ff?style=flat-square&labelColor=0000ff&logo=youtube&logoColor=white&link=https://web.facebook.com/gustavopinheir)](https://web.facebook.com/gustavopinheir)
 
 ### About me
 I'm a {backend and frontend} developer.
