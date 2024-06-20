@@ -6,9 +6,8 @@
 ### About me
 I'm a {backend and frontend} developer.
 
-- 🌱 I’m currently learning Quasar Framework
+- 🌱 I’m currently learning .NET and Mobile Development
 - 📫 How to reach me: gustavopinheiro_1999@hotmail.com
-- 💬 Ask me about anything Geek
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavopjc)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopjc)](https://github.com/anuraghazra/github-readme-stats)
