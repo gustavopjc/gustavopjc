@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-j-b75957131/)](https://www.linkedin.com/in/gustavo-j-b75957131/)
 
 ### About me
-I'm a {backend and frontend} developer.
+I'm a FullStack developer.
 
 - 🌱 I’m currently learning .NET and Mobile Development
 - 📫 How to reach me: gustavopinheiro_1999@hotmail.com
